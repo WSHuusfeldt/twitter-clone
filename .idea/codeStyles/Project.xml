@@ -1,0 +1,12 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <ScalaCodeStyleSettings>
+      <option name="collectImports" value="false" />
+      <option name="FORMATTER" value="1" />
+      <option name="ENFORCE_FUNCTIONAL_SYNTAX_FOR_UNIT" value="false" />
+    </ScalaCodeStyleSettings>
+    <codeStyleSettings language="Scala">
+      <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    </codeStyleSettings>
+  </code_scheme>
+</component>
